@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="DustSensorNoGUI/src/dependencies"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="src/dependencies/bluecove-2.1.1.jar"/>
+	<classpathentry kind="lib" path="src/dependencies/bluecove-gpl-2.1.1.jar"/>
+	<classpathentry kind="lib" path="src/dependencies/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="src/dependencies/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="src/dependencies/cxf-core-3.2.7.jar"/>
+	<classpathentry kind="lib" path="src/dependencies/fluent-hc-4.5.6.jar"/>
+	<classpathentry kind="lib" path="src/dependencies/httpclient-4.5.6.jar"/>
+	<classpathentry kind="lib" path="src/dependencies/httpclient-cache-4.5.6.jar"/>
+	<classpathentry kind="lib" path="src/dependencies/httpclient-win-4.5.6.jar"/>
+	<classpathentry kind="lib" path="src/dependencies/httpcore-4.4.10.jar"/>
+	<classpathentry kind="lib" path="src/dependencies/httpmime-4.5.6.jar"/>
+	<classpathentry kind="lib" path="src/dependencies/jna-4.4.0.jar"/>
+	<classpathentry kind="lib" path="src/dependencies/jna-platform-4.4.0.jar"/>
+	<classpathentry kind="lib" path="src/dependencies/json-simple-2.3.1.jar"/>
+	<classpathentry kind="lib" path="src/dependencies/junit.jar"/>
+	<classpathentry kind="lib" path="src/dependencies/pi4j-core-javadoc.jar"/>
+	<classpathentry kind="lib" path="src/dependencies/pi4j-core-sources.jar"/>
+	<classpathentry kind="lib" path="src/dependencies/pi4j-core.jar" sourcepath="C:/Users/parksi-hyeong/.m2/repository/com/pi4j/pi4j-core/1.1/pi4j-core-1.1-sources.jar"/>
+	<classpathentry kind="lib" path="src/dependencies/pi4j-device-javadoc.jar"/>
+	<classpathentry kind="lib" path="src/dependencies/pi4j-device-sources.jar"/>
+	<classpathentry kind="lib" path="src/dependencies/pi4j-device.jar"/>
+	<classpathentry kind="lib" path="src/dependencies/pi4j-example-javadoc.jar"/>
+	<classpathentry kind="lib" path="src/dependencies/pi4j-example-sources.jar"/>
+	<classpathentry kind="lib" path="src/dependencies/pi4j-example.jar"/>
+	<classpathentry kind="lib" path="src/dependencies/pi4j-gpio-extension-javadoc.jar"/>
+	<classpathentry kind="lib" path="src/dependencies/pi4j-gpio-extension-sources.jar"/>
+	<classpathentry kind="lib" path="src/dependencies/pi4j-gpio-extension.jar"/>
+	<classpathentry kind="lib" path="src/dependencies/pi4j-service-javadoc.jar"/>
+	<classpathentry kind="lib" path="src/dependencies/pi4j-service-sources.jar"/>
+	<classpathentry kind="lib" path="src/dependencies/pi4j-service.jar"/>
+	<classpathentry kind="lib" path="src/dependencies/RXTXcomm.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
